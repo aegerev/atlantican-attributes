@@ -37,29 +37,6 @@ site7El.children[0].textContent = "Iron Man + Mad Money = ??";
 site7El.children[1].setAttribute("href", "https://www.youtube.com/watch?v=EMWANB0AAns&ab_channel=KnoxGibson");
 site7El.children[1].children[0].setAttribute("style", "padding:10px;");
 
-site7El.children[0].textContent = "Ringing In A New Era Of MAD Money";
-site7El.children[1].setAttribute("href", "https://www.youtube.com/watch?v=Y__yLsOpS3s&ab_channel=CNBCTelevision");
-site7El.children[1].children[0].setAttribute("style", "padding:10px;");
-// site2El.children[0].textContent = "Site 2";
-// site2El.children[1].setAttribute("href", "https://twitter.com");
-// site2El.children[1].children[0].setAttribute("src", "assets/images/image_2.jpg");
-// site2El.children[1].children[0].setAttribute("alt", "group brainstorm");
-// site2El.children[1].children[0].setAttribute("style", "padding:10px;");
-
-// site2El.children[0].textContent = "Site 2";
-// site2El.children[1].setAttribute("href", "https://twitter.com");
-// site2El.children[1].children[0].setAttribute("src", "assets/images/image_2.jpg");
-// site2El.children[1].children[0].setAttribute("alt", "group brainstorm");
-// site2El.children[1].children[0].setAttribute("style", "padding:10px;");
-
-// site2El.children[0].textContent = "Site 2";
-// site2El.children[1].setAttribute("href", "https://twitter.com");
-// site2El.children[1].children[0].setAttribute("src", "assets/images/image_2.jpg");
-// site2El.children[1].children[0].setAttribute("alt", "group brainstorm");
-// site2El.children[1].children[0].setAttribute("style", "padding:10px;");
-
-// site2El.children[0].textContent = "Site 2";
-// site2El.children[1].setAttribute("href", "https://twitter.com");
-// site2El.children[1].children[0].setAttribute("src", "assets/images/image_2.jpg");
-// site2El.children[1].children[0].setAttribute("alt", "group brainstorm");
-// site2El.children[1].children[0].setAttribute("style", "padding:10px;");
+site8El.children[0].textContent = "Ringing In A New Era Of MAD Money";
+site8El.children[1].setAttribute("href", "https://www.youtube.com/watch?v=Y__yLsOpS3s&ab_channel=CNBCTelevision");
+site8El.children[1].children[0].setAttribute("style", "padding:10px;");
